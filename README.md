@@ -9,7 +9,7 @@ Find the way to destroy the demon that stole your sould and take your well deser
 
 ## Credits
 
-This code is based on the work of d0n3val at https://github.com/d0n3val/zork and https://github.com/monikamnc
+This code is based on the work of d0n3val at https://github.com/d0n3val/zork and monikamnc at https://github.com/monikamnc/Zork
 
 to which I added a considerable number of extra features.
 
