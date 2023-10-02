@@ -1,0 +1,2 @@
+C:\Users\Matherocalypse\source\repos\zork\Debug\zork.exe
+C:\Users\Matherocalypse\source\repos\New Zork\Debug\zork.exe
