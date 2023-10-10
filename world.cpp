@@ -129,9 +129,8 @@ World::World()
 	exorcist->AutoEquip();
 
 	Item* axe = new Item("Axe", "A glorious medieval battle axe. This beatiful weapon doesn't fear anybody !", dungeon, WEAPON);
-	sword->min_value = 30;
-	sword->max_value = 50;
-	exorcist->AutoEquip();
+	axe->min_value = 30;
+	axe->max_value = 50;
 
 
 	// Item-Keys -----
