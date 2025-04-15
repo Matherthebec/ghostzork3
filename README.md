@@ -4,7 +4,7 @@ This is a overhaul modification of Zork developed in one week.
 
 You're a ghost. You were banished in the void and uncapable to escape from an ancient Gothic Manor.
 
-Find the way to destroy the demon that stole your sould and take your well deserved final rest !
+Find the way to destroy the demon that stole your soul and take your well deserved final rest !
 
 
 ## Credits
